@@ -3,14 +3,15 @@
 Data from numerical relativity simulations of neutron star merger.
 
 The initial commit refers to data used in Fig.3 of [this paper](https://inspirehep.net/record/1358387) and computed there and elsewhere (see [references](#references) below).
+![](https://inspirehep.net/record/1358387/files/fig03.png)
 
 ## Usage
 
 Please, push and extende the data collected here:
 
- * Add data (rows) to the file
+ * Add data to the file
  * Update the reference list below
- * Push to the repo (single commit)
+ * Push to the repo, preferably with a single commit and clear message (e.g. "add frequencies f2 from Doe+ 2017")
  
 # References
 

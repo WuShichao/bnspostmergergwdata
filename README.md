@@ -3,9 +3,9 @@
 Data from numerical relativity simulations of neutron star mergers.
 
 The initial commit refers to data used in Fig.3 of [this paper](https://inspirehep.net/record/1358387) and computed there and elsewhere (see [references](#references) below).
-![](https://inspirehep.net/record/1358387/files/fig03.png)
+![](f2kappa.png)
 
-## Usage
+## How to add data?
 
 Please, push and extend the data collected here:
 

@@ -13,7 +13,7 @@ Please, push and extend the data collected here:
  * Update the reference list below
  * Push to the repo, preferably with a single commit and clear message (e.g. "add frequencies f2 from Doe+ 2017")
  
-# References
+## References
 
 Please link to HEP-SPIRE and cite the refs when using the data.
 
